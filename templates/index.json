@@ -35,6 +35,7 @@
         "button"
       ],
       "settings": {
+        "image_2": "shopify:\/\/shop_images\/Final_TSC_Homepage_Top_banners_ae96d366-d101-4ba4-821f-d7188615584c.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -79,7 +80,6 @@
         "template--15999581225137__ea7e04f6-f555-42cd-8d83-51012afa96c9-167965388341f9319d-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Elev8_Bundle_1280x341_c01d3bec-367d-4f6c-b076-edda2cd9cb94.webp",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -97,7 +97,6 @@
         "template--15999581225137__ea7e04f6-f555-42cd-8d83-51012afa96c9-167965388341f9319d-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Newly_Launch_Royale_Mattress_1.webp",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
