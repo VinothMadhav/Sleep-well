@@ -13,10 +13,20 @@
             "color_scheme": "background-1",
             "link": ""
           }
+        },
+        "8c073ebc-1ba1-4971-88ff-4493eec12a00": {
+          "type": "announcement",
+          "settings": {
+            "text": "welcome to my current company",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "8c073ebc-1ba1-4971-88ff-4493eec12a00"
       ],
       "settings": {
       }
