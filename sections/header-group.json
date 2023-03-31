@@ -16,7 +16,6 @@
         },
         "8872bf49-7441-421e-be25-041772f54e36": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
             "text_alignment": "center",
