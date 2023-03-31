@@ -8,15 +8,25 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "up to 100% off to buy product",
             "text_alignment": "center",
             "color_scheme": "background-1",
+            "link": ""
+          }
+        },
+        "122cb294-3571-45d3-b9cc-b2bfb4a07f9a": {
+          "type": "announcement",
+          "settings": {
+            "text": "welcome to our institute information",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "8c073ebc-1ba1-4971-88ff-4493eec12a00"
       ],
       "settings": {
       }
