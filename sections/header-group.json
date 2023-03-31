@@ -14,10 +14,11 @@
             "link": ""
           }
         },
-        "122cb294-3571-45d3-b9cc-b2bfb4a07f9a": {
+        "8872bf49-7441-421e-be25-041772f54e36": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "welcome to our institute information",
+            "text": "Welcome to our store",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": ""
@@ -26,7 +27,7 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "8c073ebc-1ba1-4971-88ff-4493eec12a00"
+        "8872bf49-7441-421e-be25-041772f54e36"
       ],
       "settings": {
       }
